@@ -1,39 +1,4 @@
 Date: 20/7/2023
-Time: 14:6
-Phone Number: +919999197522
-Message: hello vaibhav, this is an automated message sent using Python
---------------------
-Date: 20/7/2023
-Time: 14:7
-Phone Number: +919999197522
-Message: hello vaibhav, this is an automated message sent using Python
---------------------
-Date: 20/7/2023
-Time: 14:9
-Phone Number: +918860348486
-Message: hello mantu, this is an automated message sent using Python
---------------------
-Date: 20/7/2023
-Time: 14:11
-Phone Number: +919599356151
-Message: hello Sanal, this is an automated message sent using Python
---------------------
-Date: 20/7/2023
-Time: 14:13
-Phone Number: +919999197522
-Message: hello vaibhav, thankyou for your appreciation
---------------------
-Date: 20/7/2023
-Time: 14:15
-Phone Number: +919874638076
-Message: rashiiiiii ,do 1 thingggg
---------------------
-Date: 20/7/2023
-Time: 14:21
-Phone Number: +918287743124
-Message: aapko paper khatam hone ki haardik badhaai
---------------------
-Date: 20/7/2023
 Time: 14:22
 Phone Number: +917982319695
 Message: hello pranjal tiwari, hope u will be doing great
